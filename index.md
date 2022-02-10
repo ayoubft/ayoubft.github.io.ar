@@ -1,5 +1,7 @@
 ## About
+
 Hi I am Ayoub FATIHI
 
-## Contact 
-Email: [fatihiayoub@iav.ac.ma](ayoubfatihi1999@gmail.com) 
+## Contact
+
+Email: fatihiayoub(at)iav(dot)ac(dot)ma; ayoubfatihi1999(at)gmail(dot)com
