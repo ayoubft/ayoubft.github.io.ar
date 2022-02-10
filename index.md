@@ -11,7 +11,7 @@ Hi I am Ayoub FATIHI
 
 <a href="https://twitter.com/ayoubft_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
-<a href="https://www.github.com/ayoubft" target="_blank"><img src="hhttps://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.github.com/ayoubft" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </p>
 
