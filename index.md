@@ -1,4 +1,4 @@
-![mypic](https://github.com/ayoubft/ayoubft.github.io/blob/main/img/profilePic.jpg)
+![mypic](https://ayoubft.github.io/img/profilePic.jpg)
 
 ## About
 
