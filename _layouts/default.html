@@ -1,23 +1,24 @@
 <!doctype html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+<html lang="{{ site.lang | default: " en-US" }}">
 
-{% seo %}
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="chrome=1">
 
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <meta name="viewport" content="width=device-width">
-    <!--[if lt IE 9]>
+  {% seo %}
+
+  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  <meta name="viewport" content="width=device-width">
+  <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    <!-- Favicon head tag -->
-    <!-- <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
-    <link rel="manifest" href="/images/site.webmanifest"> -->
-    <!-- <style>
+  <!-- Favicon head tag -->
+  <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
+  <link rel="manifest" href="/img/site.webmanifest">
+  <!-- <style>
       html {
         background: #ECE9E6;  /* fallback for old browsers */
         background: url(./img/topography.png);
@@ -29,23 +30,27 @@
         background-color: transparent;
       }
     </style> -->
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <img src="https://user-images.githubusercontent.com/63267601/152591989-f081756f-3e9f-4779-b57d-7404ed6db9e2.gif" style="border-radius: 9px" width="65%"/>
-        <!-- <img src="" alt="." width="150"> -->
-        
-        <a href="{{ site.github.url }}"> <h1>{{ site.title | default: site.github.repository_name }}</h1> </a>
-<!--
+</head>
+
+<body>
+  <div class="wrapper">
+    <header>
+      <img src="https://user-images.githubusercontent.com/63267601/152591989-f081756f-3e9f-4779-b57d-7404ed6db9e2.gif"
+        style="border-radius: 9px" width="65%" />
+      <!-- <img src="" alt="." width="150"> -->
+
+      <a href="{{ site.github.url }}">
+        <h1>{{ site.title | default: site.github.repository_name }}</h1>
+      </a>
+      <!--
         <p>{{ site.description | default: site.github.project_tagline }}</p> 
 -->
-        <p><a href="index">About</a></p>
-        <p><a href="projects">Projects</a></p> 
-        <p><a href="index">Publications</a></p>  <!-- ONE SSS IS THERE TO DELETE -->
-        <p><a href="" target="\blank">CV</a></p>
-        <!-- <p><a href="contact">Contact</a></p> -->
-<!--
+      <p><a href="index">About</a></p>
+      <p><a href="projects">Projects</a></p>
+      <p><a href="index">Publications</a></p> <!-- ONE SSS IS THERE TO DELETE -->
+      <p><a href="" target="\blank">CV</a></p>
+      <!-- <p><a href="contact">Contact</a></p> -->
+      <!--
         {% if site.github.is_project_page %}
           <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
         {% endif %}
@@ -60,18 +65,19 @@
           </ul>
         {% endif %}
 -->
-      </header>
-      <section>
+    </header>
+    <section>
 
       {{ content }}
 
-      </section>
-      <footer>
-          <p><small>Project by {{ site.github.owner_name }} <br> 
+    </section>
+    <footer>
+      <p><small>Project by {{ site.github.owner_name }} <br>
           Original Theme by orderedlist</a></small></p>
-      </footer> 
-    </div>
-    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+    </footer>
+  </div>
+  <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
 
-  </body>
+</body>
+
 </html>
