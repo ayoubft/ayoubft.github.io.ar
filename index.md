@@ -1,3 +1,5 @@
+![mypic](https://github.com/ayoubft/ayoubft.github.io/blob/main/img/profilePic.jpg)
+
 ## About
 
 Hi I am Ayoub FATIHI
@@ -14,4 +16,4 @@ Hi I am Ayoub FATIHI
 <a href="https://www.github.com/ayoubft" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </p>
-Email: **fatihiayoub(at)iav(dot)ac(dot)ma**; **ayoubfatihi1999(at)gmail(dot)com**
+Email: [fatihiayoub@iav.ac.ma](fatihiayoub@iav.ac.ma); [ayoubfatihi1999@gmail.com](ayoubfatihi1999@gmail.com)
