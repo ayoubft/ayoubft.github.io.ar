@@ -7,3 +7,5 @@ This mini-project was a part of the course of Web-Mapping (2021-22) by Prof Hich
 ### <a href="https://precip-morocco.herokuapp.com/" target="_blank">Precipitation in Morocco data visualization dashboard</a>
 
 This project was a part of the course of Web-Mapping (2021-22) by Prof Hicham HAJJI.
+
+<a href="https://github.com/ayoubft/wm-22-project" target="_blank">More about it.</a>
