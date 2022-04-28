@@ -1,3 +1,5 @@
-## [Computer vision](blog/blog-cv.md)
+## Computer vision
 
-Author : Ayoub FATIHI
+Learning computer vision from Szeliski's book : **Computer Vision: Algorithms and Applications, 2nd ed.**
+
+[Read full blog](blog/blog-cv.md)
