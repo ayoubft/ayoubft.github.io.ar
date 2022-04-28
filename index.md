@@ -2,12 +2,24 @@
 
 ## About
 
-Hi I am Ayoub FATIHI
+I'm a final year student at School of Geomatics and Surveying Engineering (Hassan II Institute of Agronomy and Veterinary Medicine) pursuing a degree in Surveying Engineering.
+
+<details>
+<summary>Skills</summary>
+
+- ## Hello
+- ## Hello
+
+</details>
+
+&nbsp;
 
 Find me on :
 
 <a href="https://www.linkedin.com/in/ayoub-fatihi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.github.com/ayoubft" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+&nbsp;
 
 ## Contact:
 
