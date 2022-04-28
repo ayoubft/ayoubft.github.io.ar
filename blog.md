@@ -8,7 +8,7 @@ Learning computer vision from Szeliski's book : **Computer Vision: Algorithms an
 
 ---
 
-## Precipitations Dashboard
+### Precipitations Dashboard
 
 Creating a **geoportal** of precipitations in Morocco 🌧️
 
