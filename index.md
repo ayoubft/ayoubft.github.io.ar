@@ -4,14 +4,6 @@
 
 I'm a final year student at School of Geomatics and Surveying Engineering (Hassan II Institute of Agronomy and Veterinary Medicine) pursuing a degree in Surveying Engineering.
 
-<details>
-<summary>Skills</summary>
-
-- ## Hello
-- ## Hello
-
-</details>
-
 &nbsp;
 
 Find me on :
