@@ -4,7 +4,7 @@ Learning computer vision from Szeliski's book : **Computer Vision: Algorithms an
 
 [Read full blog](blog/blog-cv.md)
 
-## WebMapping
+## Precipitations Dashboard
 
 Creating a **geoportal** of precipitations in Morocco 🌧️
 
