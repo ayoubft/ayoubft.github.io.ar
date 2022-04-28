@@ -1,1 +1,1 @@
-<p><a href="blog/computer-vision.md">CV</a></p>
+This is a blog describing computer vision.
