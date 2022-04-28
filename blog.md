@@ -1,1 +1,3 @@
-[Computer vision](blog/blog-cv.md)
+## [Computer vision](blog/blog-cv.md)
+
+Author : Ayoub FATIHI
