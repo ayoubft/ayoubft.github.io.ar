@@ -12,8 +12,7 @@ Web Mapping 2022, ESCGIT course project: creating a geoportal of precipitations 
 
 ## Backend
 
-<details>
-<summary>Locally</summary>
+Locally
 
 You can use the code from this repo, but ensure you have :
 
@@ -78,13 +77,7 @@ SELECT id, ST_AsGeoJSON(geom) AS geom FROM maroc
 
 ![ezgif-5-cb393bb8b4](https://user-images.githubusercontent.com/63267601/155508530-f9d03cb3-f43b-4185-bc7e-64defc1a7e0e.gif)
 
-</details>
-
-<details>
-
-<summary>or in the cloud with heroku</summary>
-
-</details>
+or in the cloud with heroku
 
 ## ML
 
