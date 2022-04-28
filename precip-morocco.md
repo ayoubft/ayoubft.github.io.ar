@@ -6,8 +6,16 @@
 
 ## Description:
 
-This project was a part of the course of Web-Mapping (2021-22) by Prof Hicham HAJJI: Creating a geoportal of precipitations in Morocco
-
 - <a href="https://github.com/ayoubft/wm-22-project" target="_blank">Project</a>
 
 - <a href="https://github.com/ayoubft/wm-22-project" target="_blank">Source Code</a>
+
+This project was a part of the course of Web-Mapping (2021-22) by Prof Hicham HAJJI: Creating a geoportal of precipitations in Morocco.
+
+Aimed to make a full stack application that represents a geoportal for exploration, visualization and analysis of rainfall data in Morocco.
+
+The geoportal takes into account: Dynamic maps, Attribute and spatial SQL queries, Forecasting using the recurrent neural network LSTM (Machine Learning).
+
+- 💻 Frontend: javascript, html, css, leaflet
+- 🌐 Backend: nodejs, postgresql, heroku
+- 📉 ML: python, tensorflow, keras
