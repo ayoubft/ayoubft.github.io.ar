@@ -1,1 +1,1 @@
-<p><a href="blog/computer-vision.md">CV</a></p>
+[Computer vision](blog/blog-cv.md)
