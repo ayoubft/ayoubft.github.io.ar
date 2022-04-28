@@ -6,8 +6,8 @@
 
 ## Description:
 
-This project was a part of the course of Web-Mapping (2021-22) by Prof Hicham HAJJI: Creating a geoportal of precipitations in Morocco 
+This project was a part of the course of Web-Mapping (2021-22) by Prof Hicham HAJJI: Creating a geoportal of precipitations in Morocco
 
-- [Project](https://github.com/ayoubft/wm-22-project)
+- <a href="https://github.com/ayoubft/wm-22-project" target="_blank">Project</a>
 
-- [Source Code](https://github.com/ayoubft/wm-22-project)
+- <a href="https://github.com/ayoubft/wm-22-project" target="_blank">Source Code</a>
