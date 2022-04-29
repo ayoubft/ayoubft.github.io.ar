@@ -12,6 +12,6 @@ Learning computer vision from Szeliski's book : **Computer Vision: Algorithms an
 
 In this tutorial, we will be creating a **3D model** of a tajine **pictures** using _OpenDroneMap_ software.
 
-[Continue reading ...](blog-3dmoedl.md)
+[Continue reading ...](blog-3dmodel.md)
 
 ---
