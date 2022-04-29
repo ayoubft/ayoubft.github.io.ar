@@ -2,7 +2,7 @@
 
 ## About
 
-I'm a final year student at School of Geomatics and Surveying Engineering (Hassan II Institute of Agronomy and Veterinary Medicine) pursuing a degree in Surveying Engineering.
+I'm a final year engineering student at School of Geomatics and Surveying Engineering at Hassan II Institute of Agronomy and Veterinary Medicine.
 
 &nbsp;
 
