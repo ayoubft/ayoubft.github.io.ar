@@ -1,4 +1,4 @@
-# Integrating a module to 3d scan a house within the MapMint4ME android application (OSGeo - MapMint GSoC 2021)
+# Integrating a module to 3d scan a house within the MapMint4ME android application (OSGeo - MapMint | GSoC 2021)
 
 <center>
 <img src="img/tajine-gsoc-21.gif" alt="Tajine model uploading"/>
