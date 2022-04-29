@@ -4,6 +4,10 @@
 
 I'm a final year engineering student at School of Geomatics and Surveying Engineering at Hassan II Institute of Agronomy and Veterinary Medicine.
 
+New technologies enthusiast.
+
+Learning
+
 &nbsp;
 
 Find me on :
