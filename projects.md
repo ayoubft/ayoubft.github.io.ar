@@ -1,4 +1,4 @@
-## Projects
+# Projects
 
 ## [🌧️ Morocco's Precipitations Dashboard](project-precip-morocco.md)
 
