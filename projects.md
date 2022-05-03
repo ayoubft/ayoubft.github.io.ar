@@ -17,3 +17,9 @@ This project allows a minimalist 3D scan (taking multiple pictures, recording ca
 This mini-project was a part of the course of Web-Mapping (2021-22) by Prof Hicham HAJJI.
 
 ---
+
+## [📉 Benford's Law](project-benford-law.md)
+
+Application of Benford's law to quality assessment of DEM (Digital Elevation Models).
+
+---
