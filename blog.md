@@ -1,6 +1,6 @@
-## Blog Posts
+# Blog Posts
 
-### Computer vision
+## Computer vision
 
 Learning computer vision from Szeliski's book : **Computer Vision: Algorithms and Applications, 2nd ed.**
 
@@ -8,7 +8,7 @@ Learning computer vision from Szeliski's book : **Computer Vision: Algorithms an
 
 ---
 
-### Create 3D model from pictures using ODM
+## Create 3D model from pictures using ODM
 
 In this tutorial, we will be creating a **3D model** of a tajine **pictures** using _OpenDroneMap_ software.
 
