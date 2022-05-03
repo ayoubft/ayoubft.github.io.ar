@@ -19,4 +19,4 @@ Learning
 
 ## Contact:
 
-Email : [ayoubfatihi1999 [at] gmail [dot] com]()
+Email : [ayoub{lastname}1999@gmail.com]()
