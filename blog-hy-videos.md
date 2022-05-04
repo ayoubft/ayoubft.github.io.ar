@@ -1,5 +1,7 @@
 # Hyperspectral Imaging notes
 
+---
+
 ## [Webinar 1](https://www.youtube.com/watch?v=Z_Zub7wJTFs)
 
 **HSI** _**H**yper**s**pectral **I**maging_, or _chemical/spectroscopic imaging_ : acquiring a spectre info from
@@ -23,6 +25,8 @@
 .
 
 .
+
+---
 
 ## [Webinar 2](https://www.youtube.com/watch?v=xg2oXcYAZZQ&list=PL8opRgSZuuilix1tUauHaQuIsiYIAUZkk)
 
