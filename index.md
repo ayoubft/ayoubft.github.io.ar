@@ -6,7 +6,7 @@ I'm a final year engineering student at School of Geomatics and Surveying Engine
 
 New technologies enthusiast.
 
-Learning
+Learning something new ...
 
 &nbsp;
 
