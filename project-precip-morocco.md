@@ -10,7 +10,7 @@
 
 ## Description:
 
-- <a href="https://github.com/ayoubft/wm-22-project" target="_blank">Project</a>
+- <a href="https://precip-morocco.herokuapp.com/" target="_blank">Project</a>
 
 - <a href="https://github.com/ayoubft/wm-22-project" target="_blank">Source Code</a>
 
