@@ -15,3 +15,7 @@ In this tutorial, we will be creating a **3D model** of a tajine **pictures** us
 [Continue reading ...](blog-3dmodel.md)
 
 ---
+
+## Hyperspectral Imaging
+
+[Continue reading ...](blog-hy-videos.md)

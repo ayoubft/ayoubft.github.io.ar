@@ -1,8 +1,15 @@
-# [TUTORIAL] Create 3D model from pictures using ODM 
+# [TUTORIAL] Create 3D model from pictures using ODM
+
+- [Prerequisites](#prerequisites)
+- [Setting up OpenDroneMap](#setting-up-opendronemap)
+- [Building the 3D model](#building-the-3d-model)
+- [Viewing the model](#viewing-the-model)
+  - [First result](#first-result)
+  - [Final result](#final-result)
 
 In this tutorial, we will be creating a 3D model of a tajine from 44 pictures. We will be using OpenDroneMap open source software.
 
-## Prerequisites:
+## Prerequisites
 
 - [x] **OS: Windows 10 , wsl2 [installation guide](https://docs.microsoft.com/en-us/windows/wsl/install-win10)**
 - [x] **Docker Desktop**, [install from here](https://docs.docker.com/get-docker/).
@@ -21,6 +28,7 @@ docker pull opendronemap/odm
 ## Building the 3D model
 
 - Place some images (JPEGs or TIFFs) in a folder named “images” in a project folder in the datasets folder in the home directory (for example `/home/your-user/datasets/tajine/images`)
+
 <center>
 <img src="https://github.com/ayoubft/Journey-GSoC-21/raw/main/res/images/images_for_odm.png" alt="Tajine images for odm" width="400"/>
 </center>
@@ -33,7 +41,7 @@ docker run -ti --rm -v /home/youruser/datasets:/datasets opendronemap/odm --proj
 
 _This command will be used all the time, for the first time it will download the docker image to your machine (1,5 Gb approx.)._
 
-## Viewing the model:
+## Viewing the model
 
 When the process finishes, the results will be organized as follows:
 
@@ -58,13 +66,13 @@ When the process finishes, the results will be organized as follows:
 
 Open the textured model (odm_textured_model_geo.obj) or the mesh using [MeshLab](https://www.meshlab.net/) (open source system for processing and editing 3D triangular meshes).
 
-### First result:
+### First result
 
 <center>
 <img src="https://github.com/ayoubft/Journey-GSoC-21/raw/main/res/images/first-model-unedited.png" alt="first model unedited" width="600"/>
 </center>
 
-### Final result:
+### Final result
 
 After some editing on Mesh-Lab, here are the final results:
 

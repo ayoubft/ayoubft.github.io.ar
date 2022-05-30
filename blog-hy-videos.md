@@ -22,9 +22,6 @@
 
 ### Applications (mainly aggregates)
 
-.
-
-.
 
 ---
 
