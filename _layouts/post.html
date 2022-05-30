@@ -1,7 +1,65 @@
----
-layout: default
----
-<h1>{{ page.title }}</h1>
-<p>{{ page.date | date_to_string }} - {{ page.author }}</p>
+<!doctype html>
+<html lang="{{ site.lang | default: " en-US" }}">
 
-{{ content }}
+<head>
+    {% include analytics.html %}
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+
+    {% seo %}
+
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <meta name="viewport" content="width=device-width">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Favicon head tag -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
+    <link rel="manifest" href="/img/site.webmanifest">
+    <!-- <style>
+      html {
+        background: #ECE9E6;  /* fallback for old browsers */
+        background: url(./img/topography.png);
+        font-size: 1em;
+        color: #131313;
+        margin: 0;
+      }
+      body{
+        background-color: transparent;
+      }
+    </style> -->
+</head>
+
+<body>
+    <div class="wrapper">
+        <section>
+
+            <h1>{{ page.title }}</h1>
+            <p>{{ page.date | date_to_string }} - {{ page.author }}</p>
+
+            {{ content }}
+
+        </section>
+        <footer>
+            <p><small>Project by {{ site.github.owner_name }} <br>
+                    Original Theme by orderedlist</a></small></p>
+        </footer>
+    </div>
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+
+</body>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      processEscapes: true
+    }
+  });
+  </script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+    type="text/javascript"></script>
+
+</html>
