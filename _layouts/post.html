@@ -1,81 +1,14 @@
-<!doctype html>
-<html lang="{{ site.lang | default: " en-US" }}">
+---
+layout: default
+---
 
-<head>
-    {% include analytics.html %}
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+<small>{{ page.date | date: "%-d %B %Y" }}</small>
+<h1>{{ page.title }}</h1>
 
-    {% seo %}
+<p class="view">by {{ page.author | default: site.author }}</p>
 
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <meta name="viewport" content="width=device-width">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
+{{content}}
 
-    <!-- Favicon head tag -->
-    <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
-    <link rel="manifest" href="/img/site.webmanifest">
-    <!-- <style>
-      html {
-        background: #ECE9E6;  /* fallback for old browsers */
-        background: url(./img/topography.png);
-        font-size: 1em;
-        color: #131313;
-        margin: 0;
-      }
-      body{
-        background-color: transparent;
-      }
-    </style> -->
-</head>
-
-<body>
-    <div class="wrapper">
-        <header>
-            <a href="{{ site.github.url }}">
-                <h1>{{ site.title | default: site.github.repository_name }}</h1>
-            </a>
-            <!--
-              <p>{{ site.description | default: site.github.project_tagline }}</p> 
-      -->
-            <p><a href="{{ site.github.url }}/index">About</a></p>
-            <p><a href="{{ site.github.url }}projects">Projects</a></p>
-            <p><a href="publications">Publications</a></p> <!-- ONE SSS IS THERE TO DELETE -->
-            <p><a href="pdf/cv_.pdf" target="\blank">CV</a></p>
-            <p><a href="blog.html">Blog</a></p>
-            <!-- <p><a href="contact">Contact</a></p> -->
-
-        </header>
-        <section>
-
-            <h1>{{ page.title }}</h1>
-            <p style="color: #12499c;">{{ page.date | date_to_string }} - {{ page.author }}</p>
-            <hr>
-
-            {{ content }}
-
-        </section>
-        <footer>
-            <p><small>Project by {{ site.github.owner_name }} <br>
-                    Original Theme by orderedlist</a></small></p>
-        </footer>
-    </div>
-    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
-
-</body>
-<script type="text/x-mathjax-config">
-  MathJax.Hub.Config({
-    tex2jax: {
-      inlineMath: [['$','$'], ['\\(','\\)']],
-      processEscapes: true
-    }
-  });
-  </script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
-    type="text/javascript"></script>
-
-</html>
+{% if page.tags %}
+  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
+{% endif %}
