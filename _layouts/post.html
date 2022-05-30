@@ -35,10 +35,26 @@
 
 <body>
     <div class="wrapper">
+        <header>
+            <a href="{{ site.github.url }}">
+                <h1>{{ site.title | default: site.github.repository_name }}</h1>
+            </a>
+            <!--
+              <p>{{ site.description | default: site.github.project_tagline }}</p> 
+      -->
+            <p><a href="index">About</a></p>
+            <p><a href="projects">Projects</a></p>
+            <p><a href="publications">Publications</a></p> <!-- ONE SSS IS THERE TO DELETE -->
+            <p><a href="pdf/cv_.pdf" target="\blank">CV</a></p>
+            <p><a href="blog.html">Blog</a></p>
+            <!-- <p><a href="contact">Contact</a></p> -->
+
+        </header>
         <section>
 
             <h1>{{ page.title }}</h1>
-            <p>{{ page.date | date_to_string }} - {{ page.author }}</p>
+            <p style="color: #12499c;">{{ page.date | date_to_string }} - {{ page.author }}</p>
+            <hr>
 
             {{ content }}
 
