@@ -1,4 +1,4 @@
-# Supervised classification of Sentinel-2 satellite imagery using KNN of sklearn 🌍
+# Supervised classification of Sentinel-2 satellite imagery using KNN from sklearn 🌍
 
 &nbsp;
 
