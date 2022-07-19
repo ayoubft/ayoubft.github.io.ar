@@ -2,7 +2,7 @@
 layout: post
 author: Ayoub
 date: 2022-07-19
-title: Camera calibration Theory and Application
+title: Camera Calibration
 description: In this post we will review what's camera calibration, why it's needed and how to do it.
 tags: camera calibration computer-vision python camera-calibration
 ---
