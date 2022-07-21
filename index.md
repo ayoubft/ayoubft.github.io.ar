@@ -1,12 +1,12 @@
-![mypic](https://ayoubft.github.io/img/computer.gif)
+![computer's screen blinking](https://ayoubft.github.io/img/computer.gif)
 
 ## About
 
-I'm a final year engineering student at School of Geomatics and Surveying Engineering at Hassan II Institute of Agronomy and Veterinary Medicine.
+Interested in interesting things.
 
-New technologies enthusiast.
+Final year engineering student at School of Geomatics and Surveying Engineering at Hassan II Institute of Agronomy and Veterinary Medicine.
 
-Learning something new ...
+Intern at HIF-HZDR, excited to learn about the hyprespectral world, and helping awesome people do great things with LWIR data.
 
 &nbsp;
 
@@ -19,4 +19,4 @@ Learning something new ...
 
 ## Contact:
 
-Email : **ayoub{lastname}1999@gmail.com**
+Email : **ayoubfatihi1999[at]gmail[dot]com**
