@@ -32,7 +32,7 @@ This mini-project was a part of the course of Web-Mapping (2021-22) by Prof Hich
 
 ### <a href="https://ametop.ma/21eme-edition/" target="_blank">👓 3D modeling & VR immersive visit ↗</a>
 
-Produce a 3D model of Topo departement in IAVH2 campus, and use it to create an immersive virtual reality experience | An AMETOP students association project.
+Produce a 3D model of Topo departement in IAVH2 campus, and use it to create an immersive virtual reality experience - An AMETOP students association project.
 
 ---
 
