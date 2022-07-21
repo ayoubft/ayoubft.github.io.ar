@@ -1,12 +1,12 @@
 # Projects
 
-### [🌧️ Morocco's Precipitations Dashboard](project-precip-morocco.md)
+### [🌧️ Morocco's Precipitations Dashboard](projects/precip-morocco.md)
 
 Full stack application that represents a geoportal for exploration, visualization and analysis and forecasting rainfall data in Morocco.
 
 ---
 
-### [🌍 Supervised Classification](project-superv-classif-s2.md)
+### [🌍 Supervised Classification](projects/superv-classif-s2.md)
 
 Supervised classification of Sentinel-2 satellite imagery using KNN from sklearn.
 
@@ -18,13 +18,13 @@ This project allows a minimalist 3D scan (taking multiple pictures, recording ca
 
 ---
 
-### [😷 COVID-19 Data Visualization Dashboard](project-covid-19-vis.md)
+### [😷 COVID-19 Data Visualization Dashboard](projects/covid-19-vis.md)
 
 This mini-project was a part of the course of Web-Mapping (2021-22) by Prof Hicham HAJJI.
 
 ---
 
-### [📉 Benford's Law](project-benford-law.md)
+### [📉 Benford's Law](projects/benford-law.md)
 
 Application of Benford's law to quality assessment of DEM (Digital Elevation Models).
 
