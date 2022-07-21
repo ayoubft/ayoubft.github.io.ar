@@ -1,7 +1,7 @@
 # 3D modeling & VR immersive visit in the Topo departement 👓
 
 <center>
-<img src="../img/me-projet-3d-forum-21.jpg" width=600></img>
+<img src="../img/me-projet-3d-forum-21.jpg" width=600>
 </center>
 
 &nbsp;
