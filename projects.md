@@ -6,6 +6,12 @@ Full stack application that represents a geoportal for exploration, visualizatio
 
 ---
 
+### [🏢 BIM Harambee AFRICA Competition](projects/bim-harambee-africa.md)
+
+Produce BIM as-Built Model of Geomatics departement in IAVH2 campus.
+
+---
+
 ### [🌍 Supervised Classification](projects/superv-classif-s2.md)
 
 Supervised classification of Sentinel-2 satellite imagery using KNN from sklearn.
