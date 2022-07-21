@@ -8,7 +8,7 @@ Full stack application that represents a geoportal for exploration, visualizatio
 
 ### [🏢 BIM Harambee AFRICA Competition](projects/bim-harambee-africa.md)
 
-Produce BIM as-Built Model of Geomatics departement in IAVH2 campus.
+Produce BIM as-Built Model of Topo departement in IAVH2 campus.
 
 ---
 
@@ -27,6 +27,12 @@ This project allows a minimalist 3D scan (taking multiple pictures, recording ca
 ### [😷 COVID-19 Data Visualization Dashboard](projects/covid-19-vis.md)
 
 This mini-project was a part of the course of Web-Mapping (2021-22) by Prof Hicham HAJJI.
+
+---
+
+### <a href="https://ametop.ma/21eme-edition/" target="_blank">👓 3D modeling & VR immersive visit</a>
+
+Produce a 3D model of Topo departement in IAVH2 campus, and use it to create an immersive virtual reality experience | An AMETOP students association project.
 
 ---
 
