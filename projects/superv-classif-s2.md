@@ -2,4 +2,4 @@
 
 &nbsp;
 
-<a href="notebooks/landUseClassif-en.html" target="_blank">View the notebook here.</a>
+<a href="../notebooks/landUseClassif-en.html" target="_blank">View the notebook here.</a>
