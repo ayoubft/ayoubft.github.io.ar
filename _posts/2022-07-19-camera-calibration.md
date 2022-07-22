@@ -8,13 +8,14 @@ tags: camera calibration computer-vision python camera-calibration
 ---
 
 - [Camera Calibration Theory](#camera-calibration-theory)
-  - [Why is camera calibration ?](#why-is-camera-calibration-)
+  - [Why camera calibration ?](#why-camera-calibration-)
+  - [Different Classifications _(Salvi et al. 2002)_:](#different-classifications-salvi-et-al-2002)
 
 In this post we will review what's camera calibration, why it's needed and how to do it.
 
 ## Camera Calibration Theory
 
-### Why need camera calibration ?
+### Why camera calibration ?
 
 - When setting up a measurement system, it has to be carefully calibrated before any use, to get accurate results measurements. (Yes! you can use camera to take measures, see e.g. _photogrammetry_)
 
