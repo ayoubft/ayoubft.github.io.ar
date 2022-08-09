@@ -30,11 +30,7 @@ Produce a 3D model of Topo departement in IAVH2 campus, and use it to create an 
 
 ---
 
----
-
-### Other mini-projects
-
----
+## Other
 
 ### [📉 Benford's Law for to quality assessment of DEM](projects/benford-law.md)
 
