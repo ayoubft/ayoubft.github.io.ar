@@ -12,7 +12,7 @@ Produce BIM as-Built Model of Topo departement in IAVH2 campus.
 
 ---
 
-### [🏠 Integrating a module to 3d scan a house within the MapMint4ME android application (OSGeo - MapMint | GSoC 2021)](project-gsoc-21.md)
+### [🏠 Integrating a module to 3d scan a house within the MapMint4ME android application (OSGeo - MapMint | GSoC 2021)](projects/gsoc-21.md)
 
 This project allows a minimalist 3D scan (taking multiple pictures, recording camera position, using opendrone map to rebuild the 3D scene) with the house faces (accessible/visible faces) then load it as georeferenced data with the database and being able to export the data back on MapMint for 3D viewing.
 
