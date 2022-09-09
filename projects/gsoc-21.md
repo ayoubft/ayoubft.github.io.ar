@@ -1,7 +1,7 @@
 # Integrating a module to 3d scan a house within the MapMint4ME android application (OSGeo - MapMint | GSoC 2021)
 
 <center>
-<img src="img/tajine-gsoc-21.gif" alt="Tajine model uploading"/>
+<img src="../img/tajine-gsoc-21.gif" alt="Tajine model uploading"/>
 </center>
 
 ## Introduction of MapMint
@@ -15,7 +15,7 @@ MapMint4ME is an android application for [MapMint](https://mapmint.com/) web-ser
 This project allows a minimalist 3D scan (taking multiple pictures, recording camera position, using opendrone map to rebuild the 3D scene) with the house faces (accessible/visible faces) then load it as georeferenced data with the database and being able to export the data back on MapMint for 3D viewing.
 
 <center>
-<a href="https://ayoubft.github.io/img/gsoc21.png" target="_blank"><img src="img/gsoc21.png" alt="gsoc-21"/></a>
+<a href="https://ayoubft.github.io/img/gsoc21.png" target="_blank"><img src="../img/gsoc21.png" alt="gsoc-21"/></a>
 _Click the image to see full size_
 </center>
 ## Documentation
