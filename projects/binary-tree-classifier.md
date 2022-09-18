@@ -11,15 +11,7 @@ Jump to the **notebook**
 
 ---
 
-### DATA:
+**DATA** :Nguyen, Ha Trang, Diez, Yago, Lopez Caceres, Maximo Larry, Kentsch, Sarah, Moritake, Koma, & Shu, Hase. (2020). Dataset of Individual Sick Fir Detection using Computer Vision and Deep Learning.[https://doi.org/10.5281/zenodo.4054338](https://doi.org/10.5281/zenodo.4054338)
 
-Nguyen, Ha Trang, Diez, Yago, Lopez Caceres, Maximo Larry, Kentsch, Sarah, Moritake, Koma, & Shu, Hase. (2020). Dataset of Individual Sick Fir Detection using Computer Vision and Deep Learning.
-
-https://doi.org/10.5281/zenodo.4054338
-
-### Architecture of CNN U-Net Credits:
-
-**Mapping forest tree species in high resolution UAV-based RGB-imagery by means of convolutional neural networks**;
-Felix Schiefer, Teja Kattenborn, Annett Frick, Julian Frey, Peter Schall, Barbara Koch, Sebastian Schmidtlein;
-ISPRS Journal of Photogrammetry and Remote Sensing, Volume 170, 2020, Pages 205-215, ISSN 0924-2716;
-https://doi.org/10.1016/j.isprsjprs.2020.10.015
+**Architecture of CNN U-Net**: Mapping forest tree species in high resolution UAV-based RGB-imagery by means of convolutional neural networks;
+_Felix Schiefer, Teja Kattenborn, Annett Frick, Julian Frey, Peter Schall, Barbara Koch, Sebastian Schmidtlein_; ISPRS Journal of Photogrammetry and Remote Sensing, Volume 170, 2020, Pages 205-215, ISSN 0924-2716; [https://doi.org/10.1016/j.isprsjprs.2020.10.015](https://doi.org/10.1016/j.isprsjprs.2020.10.015)
