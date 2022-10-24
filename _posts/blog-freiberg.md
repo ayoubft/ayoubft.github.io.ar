@@ -1,0 +1,26 @@
+# Living in Freiberg
+
+- Even if you are **not** a student at TUBAF ,**go through these pages**:
+  - [Before arrival](https://tu-freiberg.de/en/international/before-arrival)
+  - [After arrival](https://tu-freiberg.de/en/international/after-arrival)
+
+From pages above:
+
+## Accommodation
+
+[Students residence](https://tu-freiberg.de/en/international/accommodation) even if you are not a student at TUBAF.
+
+- [Private housing offers](https://tu-freiberg.de/en/campus-life/living-in-freiberg/private-housing-offers):
+
+### Food
+
+### Lunch:
+
+- [Mensa](https://www.studentenwerk-freiberg.de/freiberg/food-drink/menu/en/)
+  - If you are a student it is even better, get your school certificate with you and go to mensa office, you will get a card (for 8EUR, refundable when returning the card) and can get meals at students prices.
+
+### Learn German
+
+If you are intersted in learning German, there are university courses for 290EUR, april and october sessions. (4 hours at campus per week)...
+
+…
