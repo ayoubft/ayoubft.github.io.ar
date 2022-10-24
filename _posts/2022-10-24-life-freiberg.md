@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Ayoub
-date: 2022-07-19
+date: 2022-10-24
 title: Life in Freiberg
 description: Intern with no affiliation with TUBAF, this blog post can be of some help.
 tags: student intern hif freiberg
