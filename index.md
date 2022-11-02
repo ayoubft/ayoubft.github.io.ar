@@ -19,4 +19,4 @@ Intern at HIF-HZDR, excited to learn about the hyprespectral world, and helping 
 
 ## Contact:
 
-Email : **ayoubfatihi1999[at]gmail[dot]com**
+Email : **fatihi.ayb[at]gmail[dot]com**
