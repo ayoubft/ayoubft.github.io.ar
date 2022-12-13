@@ -4,7 +4,7 @@
 
 **Ayoub FATIHI**, Reda YAAGOUBI (2022), Revue AMETOP.
 
-<a href="[pdf/article_gis_fr2_fin.pdf](https://ametop.ma/revue-22-edition/#dearflip-df_6209/85/)" target="\blank">Link ↗</a> [<a href="pdf/article_gis_fr2_fin.pdf" target="\blank">PDF</a>]
+<a href="https://ametop.ma/revue-22-edition/#dearflip-df_6209/85/" target="\blank">Link ↗</a> [<a href="pdf/article_gis_fr2_fin.pdf" target="\blank">PDF</a>]
 
 <b>Abstract</b>
 
