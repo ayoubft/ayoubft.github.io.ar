@@ -4,9 +4,7 @@
 
 Interested in interesting things.
 
-Final year engineering student at School of Geomatics and Surveying Engineering at Hassan II Institute of Agronomy and Veterinary Medicine.
-
-Intern at HIF-HZDR, excited to learn about the hyprespectral world, and helping awesome people do great things with LWIR data.
+Learning machine learning.
 
 &nbsp;
 
