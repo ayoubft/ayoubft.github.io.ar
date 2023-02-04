@@ -2,9 +2,11 @@
 
 ## About
 
-- Interested in interesting things: 3D computer vision, machine learning, deep learning, ...
+- Interested in interesting things.
 
 - Currently finishing my studies as a Surveying Engineer at the School of Geomatics and Surveying Engineering, IAV Hassan II.
+
+- Learning machine learning.
 
 - Astronomy novice.
 - Open to help or support in any way possible.
