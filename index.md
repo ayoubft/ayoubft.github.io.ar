@@ -9,6 +9,7 @@
 - Learning machine learning.
 
 - Astronomy novice.
+
 - Open to help or support in any way possible.
 
 &nbsp;
