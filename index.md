@@ -2,9 +2,9 @@
 
 ## About
 
-- Interested in interesting things.
+- Geomatics & Surveying Engineer.
 
-- Currently finishing my studies as a Surveying Engineer at the School of Geomatics and Surveying Engineering, IAV Hassan II.
+- Interested in interesting things.
 
 - Learning machine learning.
 
