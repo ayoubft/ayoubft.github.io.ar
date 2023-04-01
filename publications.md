@@ -4,7 +4,7 @@
 
 ---
 
-## Others
+## Other
 
 ### Conception optimale d’une ligne TGV a l’aide d’une approche SIG-AHP
 
