@@ -9,6 +9,8 @@ tags: student intern hif freiberg
 
 # Living in Freiberg
 
+[UPADATE: 04/04/2023]: Some of the links are broken, check with the [webarchive](https://web.archive.org/).
+
 - Even if you are **not** a student at TUBAF ,**go through these pages**:
   - [Before arrival](https://tu-freiberg.de/en/international/before-arrival)
   - [After arrival](https://tu-freiberg.de/en/international/after-arrival)
